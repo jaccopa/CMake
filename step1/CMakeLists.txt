@@ -4,6 +4,8 @@ cmake_minimum_required(VERSION 3.10)
 project(testpro VERSION 1.0)
 
 set(SOURCE 
+#ac,
+
 #test2.cxx
 test3.cxx
 register.cxx
