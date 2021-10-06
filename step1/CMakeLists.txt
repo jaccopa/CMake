@@ -4,8 +4,8 @@ cmake_minimum_required(VERSION 3.10)
 project(testpro VERSION 1.0)
 
 set(SOURCE 
-#test2.cxx
-#test3.cxx
+test2.cxx
+test3.cxx
 register.cxx
 )
 # add the executable
