@@ -5,6 +5,7 @@ project(testpro VERSION 1.0)
 
 set(SOURCE 
 #test2.cxx
+
 test3.cxx
 register.cxx
 )
